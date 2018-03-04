@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  {% include html-head.html %}
+  <body style="background-image: url(./img/background.png)">
+    {% include header.html %}
+    <div class="container" style="margin-bottom: 30px">
+      <!-- Content here -->
+      <div class="row">
+        <div class="col">
+          <div id="content" style="background-color: #ffffffcf; padding:20px; border-width: 1px; border-style:solid;">
+          {{ content }}
+        </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+
+    {% include body-end.html %}
+  </body>
+</html>

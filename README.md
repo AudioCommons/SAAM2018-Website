@@ -1,2 +1,4 @@
-# SAAM2018-Website
-Website for the first workshop on "Semantic Applications for Audio and Music" (SAAM 2018)
+## Website for SAAM 2018
+
+This repository contains the website for the workshop SAAM 2018 at ISWC 2018.
+It will be soon online at http://saam.semanticaudio.ac.uk/
