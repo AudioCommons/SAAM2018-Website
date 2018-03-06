@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Semantic Applications for Audio and Music
-id: home
+title: General Information
+id: info
 ---
 #### Important Dates
 __Paper submission deadline: 18th May 2018 (23:59 UTC-11)__  
