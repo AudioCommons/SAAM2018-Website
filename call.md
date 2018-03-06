@@ -3,6 +3,8 @@ layout: default
 title: Call for Contributions
 ---
 
+### Call for Contributions
+
 The SAAM organising committee would like to invite researchers, engineers, developers and all those interested in semantic applications for audio and music to submit their work (long/short/challenge papers) to SAAM 2018, held in conjunction with the International Semantic Web Conference (ISWC 2018).
 
 SAAM is a venue for dissemination and discussion, identifying intersections in the challenges and solutions which cut across musical areas. In finding common approaches and coordination, SAAM will set the research agenda for advancing the development of semantic applications for audio and music.
