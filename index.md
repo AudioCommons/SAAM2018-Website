@@ -4,8 +4,11 @@ title: Semantic Applications for Audio and Music
 id: home
 ---
 #### Important Dates
-- Submission deadline: to be defined...
-- Workshop: half day, either the 8th or 9th of October, 2018
+__Paper submission deadline: 18th May 2018 (23:59 UTC-11)__  
+Notification of acceptance: 27th June 2018  
+Registration deadline for one author per accepted paper: 29th June 2018  
+Camera ready submission deadline: 24th July 2018  
+Workshop: 9th October 2018  
 
 #### Venue
 [Asilomar Conference Grounds](https://www.visitasilomar.com/)
@@ -13,9 +16,9 @@ in [Monterey, California, USA](https://goo.gl/maps/AxGeD75finr),
 colocated with [the 17th International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/)
 
 #### Organizers
-- Kevin Page
-- Gyorgy Fazekas
-- Sean Bechhofer
+__Sean Bechhofer__, School of Computer Science, University of Manchester  
+__George Fazekas__, Centre for Digital Music (C4DM), Queen Mary University of London (QMUL)  
+__Kevin Page__, Oxford e-Research Centre, Dept. Engineering Science, University of Oxford
 
 #### Description
 Music provides a fascinating and challenging field for the application of Semantic Web technologies. Music is culture.
