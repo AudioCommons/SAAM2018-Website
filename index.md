@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semantic Applications for Audio and Music
+id: home
 ---
 #### Important Dates
 - Submission deadline: to be defined...
