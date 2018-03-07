@@ -6,14 +6,18 @@
     <div class="container" style="margin-bottom: 20px">
       <!-- Content here -->
       <div class="row">
-        <div class="col">
-          <div id="content" style="background-color: #ffffffcf; padding:15px 20px; border-width: 1px; border-style:solid;">
-          {{ content }}
+        <div class="col-12 col-md-8">
+          <div id="content" class="content-box">
+            {{ content }}
+          </div>
         </div>
+        <div class="col-12 col-md-4">
+          <div id="sidebar">
+            {% include sidebar.html %}
+          </div>
         </div>
       </div>
     </div>
-    {% include footer.html %}
 
     {% include body-end.html %}
   </body>
