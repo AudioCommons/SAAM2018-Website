@@ -82,10 +82,9 @@ All submitted papers must:
 
 It is the authors’ responsibility to ensure that their submissions adhere strictly to the required format. Submissions that do not comply with the above requirements may be rejected without review. Please note that at least one author from each accepted paper must attend the workshop to present their work, and must be registered by 29th June 2018 (see Important dates).
 
-ACM template: http://www.acm.org/sigs/publications/proceedings-templates
-Submissions: https://easychair.org/conferences/?conf=saam2018
-Contact email: [saam2018@easychair.org](mailto:saam2018@easychair.org)
-
+[ACM template](https://www.acm.org/publications/proceedings-template)  
+Submissions: [EasyChair SAAM2018 page](https://www.easychair.org/conferences/?conf=saam2018)  
+Contact email: [saam2018@easychair.org](mailto:saam2018@easychair.org)  
 
 #### Important Dates
 Paper submission deadline: 18th May 2018 (23:59 UTC-11)  
