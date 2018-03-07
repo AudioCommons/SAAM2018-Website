@@ -13,7 +13,8 @@ SAAM is a venue for dissemination and discussion, identifying intersections in t
 
 __Submission deadline: 18 May, 2018  (23:59 UTC-11)__ (see [IMPORTANT DATES](#important-dates))  
 Submissions via: [EasyChair SAAM2018 page](https://www.easychair.org/conferences/?conf=saam2018)  
-Contact: [saam2018@easychair.org](mailto:saam2018@easychair.org)
+Contact: [saam2018@easychair.org](mailto:saam2018@easychair.org)  
+The workshop proceedings will be made available in the ACM Digital Library.  
 
 #### Background and Objectives
 Music provides a fascinating and challenging field for the application of Semantic Web technologies. Music is culture. Yet as knowledge, music takes fundamentally different forms: as digital audio waveforms recording a performance (e.g. MP3); symbolic notation prescribing a work (scores, Music Encoding Initiative); instructions for synthesising or manipulating sounds (MIDI, Digital Audio Workstations); catalogues of performance or thematic aggregations (playlists, setlists); psychological responses to listening; and as an experienced and interpretable art form. How can these heterogeneous structures be linked to each other? To what end? How do we study these materials? Can computational and knowledge management analyses yield insight within and across musics? Semantic Web technologies have been applied to these challenges -- across industry, memory institutions and academia -- but with results reported to conferences representing the communities of different disciplines of musical study.
@@ -63,7 +64,8 @@ SAAM invites short, long, and challenge paper submissions. Papers will be peer r
 __Full papers__ (maximum 8 pages plus references) should report on substantially complete and mature work, or efforts that have reached an important milestone.
 __Short papers__ (maximum 4 pages plus references) may highlight demonstrators or preliminary results to bring them to the community’s attention, or present emerging technologies and approaches as position papers. For both full and short papers, we encourage submissions which report the practical application of semantic technologies to the audio and music domain, and for which demonstrators can be shown during presentation of the paper at the workshop. We also encourage sharing of demonstrators amongst participants during the workshop coffee break.
 
-Accepted full and short papers papers will be included directly in the workshop proceedings, and presented at the workshop.
+Accepted full and short papers papers will be included directly in the workshop
+proceedings to be published in the ACM ICPS, and presented at the workshop.
 
 __Music and Audio Applications Challenge papers__ (maximum 1 page plus references), henceforth ‘Challenge papers’, encourage the attendance and engagement of users (or potential users) of Semantic Web technologies through music and audio applications. Challenge papers should take the form of an extended abstract or short position paper reporting or motivating a specific problem, use case, or application. Challenge papers need not report a completed implementation or evaluation, and may be illustrative or speculative in proposing an application of semantic technology from the perspective of a clearly articulated user need.
 
@@ -85,6 +87,10 @@ It is the authors’ responsibility to ensure that their submissions adhere stri
 [ACM template](https://www.acm.org/publications/proceedings-template)  
 Submissions: [EasyChair SAAM2018 page](https://www.easychair.org/conferences/?conf=saam2018)  
 Contact email: [saam2018@easychair.org](mailto:saam2018@easychair.org)  
+
+The workshop proceedings will be published in the ACM ICPS and will be made
+available in the ACM Digital Library.
+Please use the ‘ACM SigConf’ version of the ‘2017 ACM Master Article Template’ – for MS Word (Mac and Windows versions are available), please use the ACM_SigConf template from the master for LaTeX (version 1.50), and see sample-sigconf.tex
 
 #### Important Dates
 Paper submission deadline: 18th May 2018 (23:59 UTC-11)  
