@@ -133,8 +133,6 @@ Mark Sandler, Queen Mary University of London
 Stefan Schlobach, VU Amsterdam  
 Xavier Serra, Universitat Pompeu Fabra  
 Florian Thalmann, Queen Mary University of London  
-Raphaël Troncy, EURECOM  
-Ruben Verbough, ID Lab  
 David Weigl, University of Oxford  
 Tillman Weyde, City University of London  
 Thomas Wilmering, Queen Mary University of London  
