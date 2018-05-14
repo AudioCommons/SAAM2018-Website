@@ -13,7 +13,7 @@ on October 9th, 2018, in Monterey, California, USA.
 
 SAAM is a venue for dissemination and discussion, identifying intersections in the challenges and solutions which cut across musical areas. In finding common approaches and coordination, SAAM will set the research agenda for advancing the development of semantic applications for audio and music.
 
-__Submission deadline: 18 May, 2018  (23:59 UTC-11)__ (see [IMPORTANT DATES](#important-dates))  
+Submission deadline __EXTENDED__: ~~18th May 2018~~ __24th May 2018 (23:59 UTC-11)__ (see [IMPORTANT DATES](#important-dates))  
 Submissions via: [EasyChair SAAM2018 page](https://www.easychair.org/conferences/?conf=saam2018)  
 Contact: [saam2018@easychair.org](mailto:saam2018@easychair.org)  
 The workshop proceedings will be made available in the ACM Digital Library.  
@@ -59,7 +59,7 @@ _Modelling music and media-related data_
 
 
 #### Submissions
-SAAM invites short, long, and challenge paper submissions. Papers will be peer reviewed by 2-3 members of the programme committee following a single-blind review process. Please produce your paper using the ACM template and submit it to SAAM on EasyChair by 18th May 2018 (see Important dates).
+SAAM invites short, long, and challenge paper submissions. Papers will be peer reviewed by 2-3 members of the programme committee following a single-blind review process. Please produce your paper using the ACM template and submit it to SAAM on EasyChair by 24th May 2018 (see Important dates).
 
 #### Submission formats
 
@@ -95,7 +95,7 @@ available in the ACM Digital Library.
 Please use the ‘ACM SigConf’ version of the ‘2017 ACM Master Article Template’ – for MS Word (Mac and Windows versions are available), please use the ACM_SigConf template from the master for LaTeX (version 1.50), and see sample-sigconf.tex
 
 #### Important Dates
-Paper submission deadline: 18th May 2018 (23:59 UTC-11)  
+Paper submission deadline EXTENDED: ~~18th May 2018~~ 24th May 2018 (23:59 UTC-11)  
 Notification of acceptance: 27th June 2018  
 Registration deadline for one author per accepted paper: 29th June 2018  
 Camera ready submission deadline: 24th July 2018  
