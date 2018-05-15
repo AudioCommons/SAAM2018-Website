@@ -3,7 +3,11 @@ layout: default
 title: General Information
 id: info
 ---
+
+__<font color="red">Deadline has been extended to 24th May 2018. Abstract still due on 18th May 2018.</font>__
+
 #### Important Dates
+Abstract submission deadline: 18th May 2018 (23:59 UTC-11)  
 __Paper submission deadline: ~~18th May 2018~~ 24th May 2018 (23:59 UTC-11)__  
 Notification of acceptance: 27th June 2018  
 Registration deadline for one author per accepted paper: 29th June 2018  
