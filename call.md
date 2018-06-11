@@ -134,12 +134,15 @@ Kevin Kishimoto, Stanford University Libraries
 Graham Klyne, University of Oxford  
 David Lewis, University of Oxford  
 Pasquale Lisena, EURECOM  
-Albert Meroño Peñuela, VU Amsterdam  
+Albert Meroño-Peñuela, VU Amsterdam  
 Terhi Nurmikko-Fuller, Australian National University  
+Sergio Oramas, Universidad Politécnica Madrid  
 Mark Sandler, Queen Mary University of London  
 Stefan Schlobach, VU Amsterdam  
 Xavier Serra, Universitat Pompeu Fabra  
+York Sure-Vetter, Karlsruhe Institute of Technology  
 Florian Thalmann, Queen Mary University of London  
+Jacco Vanossenbrungen, CWI & VU Amsterdam  
 David Weigl, University of Oxford  
 Tillman Weyde, City University of London  
 Thomas Wilmering, Queen Mary University of London  
