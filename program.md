@@ -10,7 +10,7 @@ permalink: /
 __<font color="red">Preliminary programme, subject to change</font>__
 
 Eight papers have been accepted for SAAM 2018.
-They have been grouped in three main themes and will be presented as part of a panel discussion (~10 min presentations followed by joint questions and discussions to the panels).
+They have been grouped in three main themes and will be presented as part of a panel discussion (short individual presentations followed by panel discussion).
 
 ##### 14:00-14:40 Panel 1: Ontologies and Music Theory
 -	__Cultural Heritage Documentation and Exploration of Live Music Events with Linked Data__
