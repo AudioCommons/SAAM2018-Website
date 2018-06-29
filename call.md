@@ -2,7 +2,6 @@
 layout: default
 title: Call for Contributions
 id: call
-permalink: /
 ---
 
 ### Call for Contributions
