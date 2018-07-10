@@ -11,7 +11,7 @@ Abstract submission deadline: 18th May 2018 (23:59 UTC-11)
 __Paper submission deadline: ~~18th May 2018~~ 24th May 2018 (23:59 UTC-11)__  
 Notification of acceptance: 27th June 2018  
 Registration deadline for one author per accepted paper: 29th June 2018  
-Camera ready submission deadline: 24th July 2018  
+Camera ready submission deadline: 29th July 2018  
 Workshop: 9th October 2018  
 
 #### Venue
