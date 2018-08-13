@@ -15,9 +15,9 @@ They have been grouped in three main themes and will be presented as part of a p
 ##### 14:00-14:40 Panel 1: Ontologies and Music Theory
 -	__Cultural Heritage Documentation and Exploration of Live Music Events with Linked Data__
   _Florian Thalmann, Thomas Wilmering and Mark B. Sandler_
-- __A Knowledge Representation for Music Theory__
-  _Sabbir Rashid, David De Roure and Deborah McGuinness_
 - __A Music Theory Ontology__
+  _Sabbir Rashid, David De Roure and Deborah McGuinness_
+- __The Software Defined Media Ontology for Music Events__
   _Ray Atarashi, Takuro Sone, Yu Komohara, Manabu Tsukada, Takashi Kasuya, Hiraku Okumura, Masahiro Ikeda and Hiroshi Esaki_
 
 ##### 14:40-15:20 Panel 2: Linked Data platforms for music and audio
