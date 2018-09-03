@@ -36,3 +36,8 @@ They have been grouped in three main themes and will be presented as part of a p
   _Laurent Pugin_
 
 ##### 16:30-17:00 Industrial and Challenge panel
+- __Expressive completeness versus structural generality: Can a single
+music representation support both?.__
+  _Tom Collins and Christian Coulon_
+- __Fusing Audio and Semantic Technology (FAST).__
+  _Mark Sandler_
