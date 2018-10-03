@@ -41,6 +41,6 @@ music representation support both?__
   _Tom Collins and Christian Coulon_
 - __Fusing Audio and Semantic Technology (FAST).__
   _Mark Sandler_
-- _Roger Macdonald_, Internet Archive
-- _Matthew McCallum_, Gracenote
-- _Sergio Oramas_, Pandora
+- __Roger Macdonald__, Internet Archive
+- __Matthew McCallum__, Gracenote
+- __Sergio Oramas__, Pandora
