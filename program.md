@@ -7,8 +7,6 @@ permalink: /
 
 ### Programme
 
-__<font color="red">Preliminary programme, subject to change</font>__
-
 Eight papers have been accepted for SAAM 2018.
 They have been grouped in three main themes and will be presented as part of a panel discussion (short individual presentations followed by panel discussion).
 
