@@ -37,8 +37,6 @@ They have been grouped in three main themes and will be presented as part of a p
 - __Expressive completeness versus structural generality: can a single
 music representation support both?__
   _Tom Collins and Christian Coulon_
-- __Fusing Audio and Semantic Technology (FAST).__
-  _Mark Sandler_
 - __Roger Macdonald__, Internet Archive
 - __Matthew McCallum__, Gracenote
 - __Sergio Oramas__, Pandora
