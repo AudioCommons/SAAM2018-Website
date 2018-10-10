@@ -34,8 +34,8 @@ They have been grouped in three main themes and will be presented as part of a p
   _Laurent Pugin_
 
 ##### 16:30-17:00 Industrial and Challenge panel
-- __Expressive completeness versus structural generality: can a single
-music representation support both?__
+- __[Expressive completeness versus structural generality: can a single
+music representation support both?](media/Challenge_paper-Collins.pdf)__
   _Tom Collins and Christian Coulon_
 - __Roger Macdonald__, Internet Archive
 - __Matthew McCallum__, Gracenote
